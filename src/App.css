@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.linha{
+  display: flex;
+  margin: 10px;
+  justify-content: center;
+}
+
+
